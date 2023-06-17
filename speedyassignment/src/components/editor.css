@@ -1,0 +1,22 @@
+.ql-container {
+    border: 1px solid #ddd;
+    min-height: 400px;
+  }
+  
+  .ql-toolbar {
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .ql-toolbar .ql-formats {
+    margin-right: 10px;
+  }
+  
+  .ql-toolbar .ql-picker-label {
+    color: #333;
+  }
+  
+  .ql-toolbar .ql-picker-options {
+    padding: 5px;
+  }
+  
